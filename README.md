@@ -1,4 +1,4 @@
-# html parser
+# chrome extention for parse html files
 
 # how it work 
 -its using js to collecting data from html and using rest api to proccess data in backend and return result
