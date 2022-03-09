@@ -1,5 +1,8 @@
 # html parser
 
+# how it work 
+-its using js to collecting data from html and using rest api to proccess data in backend and return result
+
 # how to use 
 - download html parser and extract it
 - go to `chrome://extensions/` in chrome browser
